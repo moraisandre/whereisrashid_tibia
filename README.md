@@ -10,3 +10,6 @@ To test it:
 For more infomation:
 * https://developer.chrome.com/extensions/getstarted
 * http://www.andremorais.com.br
+
+Available in Chrome store:
+* https://chrome.google.com/webstore/detail/where-is-rashid/ghgafdfdafeebkdahbjpinndhombknol
